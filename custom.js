@@ -26,8 +26,16 @@ $(function(){
 				}
 
 			})
+		},
+
+		error: function() {
+			alert("didn't work");
 		}
+
+		
 	});
+
+
 });
 
 
